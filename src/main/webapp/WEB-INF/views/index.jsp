@@ -14,6 +14,6 @@
 	
 </body> 
 <script>
-var arr[];
+var arr = [];
 </script>
 </html>
